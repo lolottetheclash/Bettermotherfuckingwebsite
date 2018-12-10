@@ -1,0 +1,88 @@
+/*fichier CSS lié au site Bettermotherfucking website, lié à index.html*/
+
+
+
+
+/* mots à mettre en gras avec la balise span dans code html*/
+
+.engras
+
+{
+	font-weight: bold;
+}
+
+
+
+/*enlever les points devant la liste*/
+
+.liste
+{
+
+	list-style-type: none;
+}
+
+/*centrer le texte + marge padding haut et bas*/
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 650px;
+	padding: 10px;
+}
+
+/* mots à mettre en italique avec la balise span dans code html*/
+
+.enitalique
+
+{
+	font-style: italic;
+}
+
+/* hauteur de ligne + couleur de fond */
+
+body
+{
+	line-height: 1.5;
+	background-color: #ffffff;
+	color: #444444;
+
+}
+
+/* taille de police */
+h1
+{
+	font-size: 36px;
+
+}
+
+h2
+{
+	font-size: 27px;
+}
+
+h3
+{
+	font-size: 21px;
+}
+
+h4
+{
+	font-size: 18px;
+}
+p
+{
+	font-size: 18px;
+}
+
+ul
+{
+	font-size: 18px;
+}
+
+/* changement de police*/
+
+.ecriture
+{
+	font-family: monospace; 
+}
